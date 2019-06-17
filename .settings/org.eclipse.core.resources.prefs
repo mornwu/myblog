@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/resources/mapper/UserDaoMapper.xml=UTF-8
+encoding//src/main/resources/mybatis-config.xml=UTF-8
+encoding//src/main/resources/spring-context.xml=UTF-8
+encoding//src/main/resources/spring-mvc.xml=UTF-8
